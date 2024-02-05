@@ -1,4 +1,8 @@
-console.log("Hola mundo");
+const cantidad = 5
 
+let i = 0
+let primoTemp = 1 
 
-console.log("Hola mundo, este es una pequeña modificacion");
+while (i < cantidad) {
+    
+}
