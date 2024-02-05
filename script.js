@@ -23,7 +23,7 @@ let primoTemp = 1
 
 while (i < cantidad) {
     
-    if (esPrimo(primoTemp)) {
+    if (esPrimo(primoTemp) && true && i < cantidad) {
         console.log(i+1,"->",primoTemp);
         i++
     }
