@@ -1,3 +1,4 @@
+console.log('console desde Programador C')
 
 const esPrimo = primo => {
     
