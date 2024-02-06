@@ -30,3 +30,6 @@ while (i < cantidad) {
 
     primoTemp++
 }
+
+
+console.log("console log de master");
